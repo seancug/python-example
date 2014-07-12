@@ -1,0 +1,7 @@
+include LICENSE.txt
+include README.txt
+include CITATION.txt
+include MANIFEST.in
+recursive-include cookbook *
+recursive-include fatiando *.pyx
+recursive-include fatiando *.c
